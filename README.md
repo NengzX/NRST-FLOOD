@@ -31,7 +31,7 @@ node -v   # Verify installation
 
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/yourusername/NRST-FLOOD.git
+git clone https://github.com/NengzX/NRST-FLOOD.git
 cd NRST-FLOOD
 npm install net http2 tls cluster url path crypto user-agents fs axios https
 
