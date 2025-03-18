@@ -33,6 +33,8 @@ node -v   # Verify installation
 ```sh
 git clone https://github.com/yourusername/NRST-FLOOD.git
 cd NRST-FLOOD
+npm install net http2 tls cluster url path crypto user-agents fs axios https
+
 ```
 
 ## BASIC EXAMPLE USE 
